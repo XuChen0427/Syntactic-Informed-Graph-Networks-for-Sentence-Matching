@@ -1,0 +1,6 @@
+Linux
+python>=3.7.0
+torch>= 1.7.0
+nltk>=3.5
+pytorch_transformers>=1.2.0
+java>=1.8.0
